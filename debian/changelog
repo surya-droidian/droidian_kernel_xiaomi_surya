@@ -1,0 +1,11 @@
+linux-android-xiaomi-surya (0.0.0+git20241120171957.f23a7fa.halium.11.0) halium-11.0; urgency=medium
+
+  [ anShigenta ]
+  * [debian] Added debian packaging folder
+  * [surya_defconfig] Adapted defconfig for Halium, Droidian and Waydroid
+
+  [ Willy Gardiol ]
+  * Revert "Merge tag 'LA.UM.9.1.r1-11600.03-SMxxx0.QSSI12.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0 into HEAD"
+
+ -- anShigenta <swertygh70@gmail.com>  Wed, 20 Nov 2024 09:19:57 -0800
+
